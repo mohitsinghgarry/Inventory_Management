@@ -40,7 +40,14 @@ Inventory_Management/
 
 ---
 
-## 🖼️ Screenshots  
+## 🖼️ Screenshots 
+
+# 📦 Login    
+![Login Page](Frontend_Inventory_Managment/public/login.png)
+
+# 📦 Signup  
+![Signup page](Frontend_Inventory_Managment/public/signup.png)
+
 
 # 📦 ADMIN DASHBOARD  
 
