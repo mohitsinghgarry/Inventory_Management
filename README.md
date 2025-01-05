@@ -10,7 +10,7 @@ This **full-stack MERN application** allows businesses to list and manage produc
 ---
 ## 🚀 Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-InventoryManagement-green?style=for-the-badge)](https://frontend-inventory-managment.vercel.app/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-InventoryManagement-green?style=for-the-badge)](https://inventory-managment-pro.vercel.app/)  
 [![GitHub Repo](https://img.shields.io/badge/Source%20Code-InventoryManagement-black?style=for-the-badge)](https://github.com/mohitsinghgarry/Inventory_Management/)
 
 ## 🚀 Features  
